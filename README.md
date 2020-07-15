@@ -1,12 +1,14 @@
 # Neural_Networks_cs
-Neural networks in c# without the use of third party libraries.
-  - Version 1:
-    - Simple neural network with adjustable layer size and node number
-    - Need some more testing for bugs
-    - Includes cross validation
-    - Currently an online learner
-              
-Upcoming improvements:
-  - Parallize the neural network for multitheading
-  - Convergence determination
-  - Batchwise learning
+Neural networks in c# without the use of many third party libraries.
+
+Features of the NN:
+  - Mini batch gradient descent
+  - Multi-threading
+  - Activation choice
+  - Cross validation evaluation
+  - Reading from a csv
+
+Possible improvements:
+  - Reduce overhead from threading as the parameters must be passed as an object which must be instantiated
+  - Reduce memory comsumption - each thread requires its own resources (activation values, partial derviatives)
+  

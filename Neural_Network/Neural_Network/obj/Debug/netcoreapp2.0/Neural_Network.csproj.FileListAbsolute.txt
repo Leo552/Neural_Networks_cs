@@ -1,0 +1,11 @@
+C:\Users\maxel\OneDrive\Machine learning\Neural Networks\Neural_Network\Neural_Network\bin\Debug\netcoreapp2.0\Neural_Network.deps.json
+C:\Users\maxel\OneDrive\Machine learning\Neural Networks\Neural_Network\Neural_Network\bin\Debug\netcoreapp2.0\Neural_Network.runtimeconfig.json
+C:\Users\maxel\OneDrive\Machine learning\Neural Networks\Neural_Network\Neural_Network\bin\Debug\netcoreapp2.0\Neural_Network.runtimeconfig.dev.json
+C:\Users\maxel\OneDrive\Machine learning\Neural Networks\Neural_Network\Neural_Network\bin\Debug\netcoreapp2.0\Neural_Network.dll
+C:\Users\maxel\OneDrive\Machine learning\Neural Networks\Neural_Network\Neural_Network\bin\Debug\netcoreapp2.0\Neural_Network.pdb
+C:\Users\maxel\OneDrive\Machine learning\Neural Networks\Neural_Network\Neural_Network\obj\Debug\netcoreapp2.0\Neural_Network.csprojAssemblyReference.cache
+C:\Users\maxel\OneDrive\Machine learning\Neural Networks\Neural_Network\Neural_Network\obj\Debug\netcoreapp2.0\Neural_Network.csproj.CoreCompileInputs.cache
+C:\Users\maxel\OneDrive\Machine learning\Neural Networks\Neural_Network\Neural_Network\obj\Debug\netcoreapp2.0\Neural_Network.AssemblyInfoInputs.cache
+C:\Users\maxel\OneDrive\Machine learning\Neural Networks\Neural_Network\Neural_Network\obj\Debug\netcoreapp2.0\Neural_Network.AssemblyInfo.cs
+C:\Users\maxel\OneDrive\Machine learning\Neural Networks\Neural_Network\Neural_Network\obj\Debug\netcoreapp2.0\Neural_Network.dll
+C:\Users\maxel\OneDrive\Machine learning\Neural Networks\Neural_Network\Neural_Network\obj\Debug\netcoreapp2.0\Neural_Network.pdb
